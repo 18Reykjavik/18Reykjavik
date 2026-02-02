@@ -1,4 +1,4 @@
-## Hi there 👋
+## Всем привет! Я Ира, QA Engineer ;) 
 
 <!--
 **18Reykjavik/18Reykjavik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
